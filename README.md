@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TumeloFaith
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning how to develop using Java and Spring Boot
+- 🌱 Still have a passion for Java and Spring Boot and I must say, "I am getting better each day!"
+- I am currently learning C# and ASP.NET
 - 📫 How to reach me @tumelomuloongo@gmail.com
 
 <!---
